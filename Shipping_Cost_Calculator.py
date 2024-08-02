@@ -1,4 +1,3 @@
-# Here is another update by jlpub
 # Here is a new update by jlpub
 # Shipping Cost Calculator
 
